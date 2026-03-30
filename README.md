@@ -1,16 +1,14 @@
-## Hi there 👋
+# I'm Glaxyias
 
-<!--
-**GLAXYIAS/GLAXYIAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I fork whatever I want and bend it until it works my way.
+- I take things apart, rebuild them, and make them better — simple as that.
+- If something exists, I’ll mess with it just to see how far it can go.
+- My projects don’t disappear — they stay up. Do something with them or don’t.
+- I don’t gatekeep. If it’s public, it’s yours to use, break, or improve.
+- Most of what I make starts as an idea and ends as something people actually use.
+- I don’t care about perfect — I care about working, fast, and interesting.
+- If you’re here, you’re either curious or looking for something useful.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Like what you see? Star it.
+- Want updates? Follow and keep up.
+- Don’t? Then move on.
