@@ -1,16 +1,66 @@
-# I'm Glaxyias
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00c6ff,0072ff&height=260&section=header&text=Null_X&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-- I fork whatever I want and bend it until it works my way.
-- I take things apart, rebuild them, and make them better — simple as that.
-- If something exists, I’ll mess with it just to see how far it can go.
-- My projects don’t disappear — they stay up. Do something with them or don’t.
-- I don’t gatekeep. If it’s public, it’s yours to use, break, or improve.
-- Most of what I make starts as an idea and ends as something people actually use.
-- I don’t care about perfect — I care about working, fast, and interesting.
-- If you’re here, you’re either curious or looking for something useful.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1200&color=00C6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Building+efficient+web+solutions&repeat=false" />
+</p>
 
-- Like what you see? Star it.
-- Want updates? Follow and keep up.
-- Don’t? Then move on.
--Here is my most Popular Repo: [https://glaeesas.github.io/Null_XV2.14/](https://github.com/glaeesas/Null_XV2.14)
--Also Make Sure To Follow My Other Member: Glaeesas
+---
+
+### About Me
+
+I’m a developer focused on creating fast, secure, and reliable web applications. Currently developing **UGB Website**, a project aimed at resolving content filtering and redirect issues with clean, efficient logic.
+
+- Currently working on: **UGB Website**
+- Always exploring: Performance optimization and system-level solutions
+- Open to: Interesting collaborations and learning opportunities
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLAXYIAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,python,nodejs,git,github,tailwind,vercel&perline=7" />
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glaxyiase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glaxyias&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### Featured Project
+
+**UGB Website**  
+A custom solution designed to handle Linewize filtering restrictions through intelligent configuration and redirects.
+
+[→ View Repository](https://github.com/GLAXYIAS/UGB-website)
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/Glaxyias">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0072ff,00c6ff&height=100&section=footer" />
+</p>
