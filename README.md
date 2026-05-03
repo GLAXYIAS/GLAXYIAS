@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00c6ff,0072ff&height=260&section=header&text=Null_X&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00c6ff,0072ff&height=260&section=header&text=Null_X&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4000&pause=1200&color=00C6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Building+efficient+web+solutions&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4200&pause=1100&color=00C6FF&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+Building+efficient+web+solutions&repeat=false" />
 </p>
 
 ---
@@ -15,8 +15,7 @@
 I’m a developer focused on creating fast, secure, and reliable web applications. Currently developing **UGB Website**, a project aimed at resolving content filtering and redirect issues with clean, efficient logic.
 
 - Currently working on: **UGB Website**
-- Always exploring: Performance optimization and system-level solutions
-- Open to: Interesting collaborations and learning opportunities
+- Focus: Performance optimization and intelligent system solutions
 
 ---
 
