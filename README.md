@@ -1,3 +1,30 @@
-ok, what do I do? Code. Who am I? A random guy. Why do you care? I don't know. Why are you reading this? I don't know. When will this end? I don't know.
-also I make UBG sites on glaxyias.github.io.
-Has it ended? I think so.
+# Null_X
+
+## What do I do?
+Code.
+
+## Who am I?
+Just some random guy on the internet.
+
+## Why should you care?
+Honestly? I don't know.
+
+## Why are you reading this?
+Also a mystery.
+
+## When will this end?
+I don't know.
+
+---
+
+I also make UBG sites over at:
+
+🌐 https://glaxyias.github.io
+
+---
+
+## Has it ended?
+
+I think so.
+
+— **Your Null_X Team**
