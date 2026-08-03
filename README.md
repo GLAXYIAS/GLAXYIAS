@@ -19,7 +19,10 @@ I don't know.
 
 I also make UBG sites over at:
 
-🌐 https://glaxyias.github.io
+https://glaxyias.github.io
+
+I also made a dumb little clicker game:
+glaxyias.github.io/Bitcoin-clicker
 
 ---
 
